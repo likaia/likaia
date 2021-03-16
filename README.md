@@ -20,8 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5ec0ec513c07433cb631a981c11fc554~tplv-k3u1fbpfcp-watermark.image"></code>
 
+----------
 
-😉**我的自学之路:**
+😉 **我的自学之路:**
 <details style="cursor: pointer;">
   <summary>2016年</summary>
 <div style="width: 98%; margin: 0 auto">
@@ -94,6 +95,7 @@
 </div>
 </details>
 
+----------
 
 ✍️ **我的文章:**
 <details style="cursor: pointer;">
@@ -290,6 +292,8 @@
 </ul>
 </div>
 </details>
+
+----------
 
 🥰 **社区粉丝:**
  
