@@ -7,7 +7,7 @@
 你可能很好奇我的经历，正常来讲，这个年龄应该还在读大学，而你就已经有将近2年的工作经验了。此事说来话长，感兴趣的开发者请移步：[一枚19岁程序员的自学之路](https://juejin.cn/post/6844904025746309133)
 
 
-  <img align="right" alt="GIF" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6fe954a172b14de1a996a606250a320d~tplv-k3u1fbpfcp-watermark.image" width="430" height="250" />
+  <img align="right" alt="GIF" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6fe954a172b14de1a996a606250a320d~tplv-k3u1fbpfcp-watermark.image" width="430" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a64ceb9e91949f3b643a8cf603f983b~tplv-k3u1fbpfcp-watermark.image) 进一步交流。
 - 📫 我的邮箱: [1195419506@qq.com](mailto:1195419506@qq.com);
