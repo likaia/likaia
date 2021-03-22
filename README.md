@@ -172,6 +172,7 @@
 <ul>
 <li><a href="https://juejin.cn/post/6937688619503058974">路线规划</a></li>
 <li><a href="https://juejin.cn/post/6937688619503058974">深入理解原型链与继承</a></li>
+<li><a href="https://juejin.cn/post/6942319196797665288">深入理解作用域和闭包</a></li>
 </ul>
 </div>
 </details>
