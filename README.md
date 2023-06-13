@@ -30,7 +30,8 @@ I am mainly responsible for the development and optimization of the core module 
 * Implement the search function of the svg text component in the canvas, and solve the problem that the browser does not support the search for svg text type elements by default
 * Implemented the function of exporting draft content in the editor to PDF to support users' printing needs
 * Responsible for the architecture design and development of a set of node middle-tier services that modify the draft content through the API within the company (using nest for implementation)
-项目的线上地址：
+
+The online address of the project：
 - [Xiu-zhan Animation Editor](https://www.xiuzhan365.com/)
 - [Yun-zhan Animation Editor](https://www.yunzhan365.com/)
 - [FlipHtml5 Attribute Editor](https://fliphtml5.com/)
