@@ -20,10 +20,6 @@ You may be curious about my experience. Normally speaking, it is impossible to h
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./Webstorm.png"></code>
 
-**my open source project:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=likaia&repo=js-screen-shot)](https://github.com/likaia/js-screen-shot)
-
 ----------
 
 
