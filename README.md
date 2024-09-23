@@ -1,7 +1,7 @@
 ### Hey，I'm MagicalProgrammer. Chinese introduction please move 👉 [README-CN](./README-CN.md)
 <br />
 
-Hello， I'm [MagicalProgrammer](https://kaisir.cn) ，was born in 2000，A front-end development engineer with 4 years of work experience。
+Hello， I'm [MagicalProgrammer](https://kaisir.cn) ，was born in 2000，A front-end development engineer with 5 years of work experience。
 
 You may be curious about my experience. Normally speaking, it is impossible to have such a long work experience. This matter is a long story, interested developers please go to: [A 19-year-old programmer's self-study road](https://juejin.cn/post/6844904025746309133)
 
